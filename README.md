@@ -5,7 +5,7 @@
 # Supplementary materials: Australian Landscape Dynamic
 
 <div align="center">
-    <img width=950 src="https://github.com/badlands-model/pyBadlands-Published/blob/master/G3-Australia/visual/topochange.png" alt="Topographic evolution at given time intervals" title="Topographic evolution at given time intervals"</img>
+    <img width=950 src="visual/topochange.png" alt="Topographic evolution at given time intervals" title="Topographic evolution at given time intervals"</img>
 </div>
 
 This repository contains all the materials required to reproduce the models published in our G-cubed paper:
